@@ -1,4 +1,4 @@
-from day_1_input import imput_code
+imput_code = """(paste input here)"""
 
 # part 1
 def part1(imput_code):
